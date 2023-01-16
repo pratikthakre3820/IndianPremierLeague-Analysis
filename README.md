@@ -12,8 +12,10 @@ Data Science / Analytics is all about finding valuable insights from the given d
 
 Questions:
 
-1)The IPL dataset was cleaned and Exploratory Data Analysis was performed using Seaborn and Matplotlib. The analysis revealed the following insights:
+1)The IPL dataset was cleaned and Exploratory Data Analysis was performed using Seaborn and Matplotlib. The analysis revealed the following insights.
+
 2)Mumbai hosted the maximum number of matches.
+
 3)The preferred choice after winning a toss in Mumbai is to field first.
 4)Mumbai Indians won the toss the maximum number of times (83).
 5)Mumbai Indians have won more matches in Mumbai than any other team.
