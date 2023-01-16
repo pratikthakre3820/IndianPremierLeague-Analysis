@@ -1,7 +1,7 @@
 # IndianPremierLeague-Analysis
 
 #Welcome to Data Analysis in Python
-In this tutorial, We will see how to get started with Data Analysis in Python. The Python packages that we use in this notebook are:
+In this tutorial, We will see how to get started with Data Analysis in Python. The Python packages that we use in this notebook are.
 
 numpy
 pandas
